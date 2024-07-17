@@ -7,7 +7,7 @@ This repository contains a curated list of resources to learn Composed Image Ret
 - [Datasets](#datasets)
 - [Papers](#papers)
 
-## Word Embeddings
+## Datasets
 
 | Dataset | Link |
 | --- | --- |
